@@ -10,6 +10,7 @@ function FindProxyForURL(url, host)
 			|| shExpMatch(host, "*.sacxrdbp02.dacfi.es")
 			|| shExpMatch(host, "sacxrdbp02.dacfi.es")
 			|| shExpMatch(host, "*.saprenting.caixabankequipment.com")
+			|| shExpMatch(host, "saprenting.caixabankequipment.com")
 
 
 		)
